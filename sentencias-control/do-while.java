@@ -2,7 +2,7 @@
   Ejemplo de uso de un bucle while para realizar un contador
 */
 
-public class WhileContador {
+public class DoWhile {
   public static void main (String[] args) {
 
     Scanner reader = new Scanner(System.in);
