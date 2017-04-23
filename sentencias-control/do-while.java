@@ -9,7 +9,7 @@ public class WhileContador {
     int iNumero;
 
     do {
-    	System.out.println(“Introduce carácter por consola”);
+    	System.out.println("Introduce carácter por consola");
     	iNumero = reader.nextInt();
     	System.out.println(iNumero);
     } while (iNumero <> 0);
