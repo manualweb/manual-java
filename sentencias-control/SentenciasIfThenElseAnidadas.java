@@ -2,7 +2,7 @@
   Ejemplo de uso de if-then-else anidado
 */
 
-public class SentenciasIfThenElseAnidada {
+public class SentenciasIfThenElseAnidadas {
   public static void main (String[] args) {
 
     int valor = 14;

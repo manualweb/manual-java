@@ -2,7 +2,7 @@
   Usar una estructura if-then-else como si fuese un switch
 */
 
-public class SwitchComoIf {
+public class IfComoSwitch {
   public static void main (String[] args) {
 
     if (iMes == 1){

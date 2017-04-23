@@ -2,7 +2,7 @@
   Ejemplo de uso de switch
 */
 
-public class Switch {
+public class UsoSwitch {
   public static void main (String[] args) {
 
       int iMes = 3;
