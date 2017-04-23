@@ -1,3 +1,7 @@
+/*
+  Ejemplo de uso de if-then-else anidado
+*/
+
 public class SentenciasIfThenElseAnidada {
   public static void main (String[] args) {
 

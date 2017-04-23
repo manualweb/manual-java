@@ -1,3 +1,7 @@
+/*
+  Ejemplo de uso de switch
+*/
+
 public class Switch {
   public static void main (String[] args) {
 
